@@ -1,0 +1,61 @@
+@startuml Coffee routine
+
+autonumber
+hide footbox
+
+actor Customer <<addict>>
+
+box "Cafe"
+actor Barista <<artist>>
+participant Grinder <<slave>>
+participant Machine as "Espresso machine" <<slave>>
+end box
+
+activate Customer
+Customer -> Barista : Request coffee
+
+activate Barista
+Barista -> Grinder : Check bean supply
+
+activate Grinder
+Barista <- Grinder : Level of beans
+
+alt Beans low in hopper
+Barista -> Barista : Retrieve beans \nfrom storeroom
+
+break Storeroom supply exhausted
+Customer <- Barista : Inform of shortage
+[<- Customer : Trudge out of cafe \nseeking alternate \nsource of coffee
+end 'break: Storeroom supply exhausted
+
+Barista -> Grinder : Refill hopper
+
+else Sufficient beans loaded
+end 'alt: Beans low in hopper
+
+Customer <- Barista : Request payment
+Customer -> Barista : Deliver payment
+
+'parallel:
+par
+Barista -> Machine : Express coffee
+activate Machine
+Machine -> Machine : Express coffee
+Barista <- Machine : Coffee
+
+else
+
+Barista -> Machine : Steam milk
+Barista <- Machine : Steamed milk
+
+end 'parallel
+
+Barista -> Barista : Pour milk into coffee
+
+Customer <- Barista : Deliver coffee
+
+loop More coffee
+Customer -> Customer : Sip coffee
+end 'loop
+
+@enduml
