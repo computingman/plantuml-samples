@@ -12,12 +12,14 @@
 +++
 ### U
 * Unified
-![Uniform](images/Tigerspike-Sydney-uniform-800x442.jpg)
+
+![Uniform](images/Tigerspike-Sydney-uniform-1015x560.jpg)
 
 +++
 ### M
 * Unified
 * Modelling
+
 ![Blue Steel](images/Zoolander-Ben-Stiller-Blue-Steel-531x430.jpg)
 
 +++
@@ -25,22 +27,33 @@
 * Unified
 * Modelling
 * Language
+
 ![Language](images/Language-900x386.jpg)
 
 ---
-## What / Why / How?
+## Agenda
+* What?
+* Why?
+* How?
+
++++
+## What?
 * Type in plain text:
-  * Processes/sequences,
-  * Objects/data structures,
-  * Packages/architecture,
-  * Flow charts,
-  * Gantt charts,
-  * GUI/form sketches,
+  * Processes / sequences
+  * Objects / data structures
+  * Packages / architecture
+  * Flow charts
+  * Gantt charts
+  * GUI / form sketches
   * Maths
 
++++
+## What more?
 * [PlantUML](http://plantuml.com/) draws and lays-out elements
 
-* Export in many image formats
+* Exports in many image formats
+  * SVG
+  * PNG
 
 +++
 ## Why?
