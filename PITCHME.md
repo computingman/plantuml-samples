@@ -12,20 +12,20 @@
 +++
 ### U
 * Unified
-![Uniform](http://www.contactairlandandsea.com/wp-content/uploads/2016/07/new-uniform.jpg)
+![Uniform](images/Tigerspike-Sydney-uniform-800x442.jpg)
 
 +++
 ### M
 * Unified
 * Modelling
-![Blue Steel](http://patrickkingconsulting.com/wp-content/uploads/2014/10/10333344_806272912725643_1800832719523386100_o-1024x830.jpg)
+![Blue Steel](images/Zoolander-Ben-Stiller-Blue-Steel-531x430.jpg)
 
 +++
 ### L
 * Unified
 * Modelling
 * Language
-![Language](http://www.leadwithlanguages.org/wp-content/uploads/hero-myths.jpg)
+![Language](images/Language-900x386.jpg)
 
 ---
 ## What / Why / How?
