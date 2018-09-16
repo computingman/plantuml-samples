@@ -1,9 +1,6 @@
 # PlantUML
 ## text ⌲ diagrams
 
-@size[0.4em](
- [View at gitpitch.com/computingman/plantuml-samples](https://gitpitch.com/computingman/plantuml-samples/master) )
-
 ---
 ## UML
 @ul
