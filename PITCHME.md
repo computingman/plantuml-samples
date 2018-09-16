@@ -1,3 +1,4 @@
+![icon](images/PlantUML-icon.png)
 # PlantUML
 ## text ⌲ diagrams
 
@@ -76,6 +77,7 @@
 * [Chrome extension](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
   * View (local) diagrams in the browser
     * "Allow access to file URLs" in [extension settings](chrome://extensions/?id=legbfeljfbjgfifnkmpoajgpgejojooj)
+* [GoogleDocs extension - PlantUML Gizmo](https://chrome.google.com/webstore/detail/plantuml-gizmo/gkhhgpmifdpiagjagcbconfnnhkmomnp)
 
 ---
 ## Alternatives

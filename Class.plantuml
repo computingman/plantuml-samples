@@ -1,0 +1,26 @@
+@startuml Class diagram
+
+class Mammal {
+    + Blood = warm
+    + Hair/fur
+    + Milk
+}
+
+class Cat extends Mammal {
+    + Whiskers
+    + Tail
+    ---
+    + Purr()
+    + Meow()
+    - LickClean()
+}
+
+class Human extends Mammal {
+    + OpposableThumbs
+    ---
+    + PostOnSocialMedia()
+}
+
+Cat "0..*"}-{"0..*" Human : enslaves
+
+@enduml
