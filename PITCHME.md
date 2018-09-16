@@ -30,16 +30,17 @@
 ---
 ## What / Why / How?
 * Type in plain text:
-  * processes/sequences,
-  * objects/data structures,
-  * flow charts,
+  * Processes/sequences,
+  * Objects/data structures,
+  * Packages/architecture,
+  * Flow charts,
   * Gantt charts,
   * GUI/form sketches,
-  * maths
+  * Maths
 
 * [PlantUML](http://plantuml.com/) draws and lays-out elements
 
-* Export in image formats
+* Export in many image formats
 
 +++
 ## Why?
