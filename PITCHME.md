@@ -1,38 +1,37 @@
 # PlantUML
 ## text ⌲ diagrams
 
-~[View at gitpitch.com/computingman/plantuml-samples](https://gitpitch.com/computingman/plantuml-samples/master)~
+@size[0.4em](
+ [View at gitpitch.com/computingman/plantuml-samples](https://gitpitch.com/computingman/plantuml-samples/master) )
 
 ---
-
 ## UML
-
+@ul
 * U
 * M
 * L
+@ulend
 
 +++
-
+### U
 * Unified
 ![Uniform](http://www.contactairlandandsea.com/wp-content/uploads/2016/07/new-uniform.jpg)
 
 +++
-
+### M
 * Unified
 * Modelling
 ![Blue Steel](http://patrickkingconsulting.com/wp-content/uploads/2014/10/10333344_806272912725643_1800832719523386100_o-1024x830.jpg)
 
 +++
-
+### L
 * Unified
 * Modelling
 * Language
 ![Language](http://www.leadwithlanguages.org/wp-content/uploads/hero-myths.jpg)
 
 ---
-
 ## What / Why / How?
-
 * Type in plain text:
   * processes/sequences,
   * objects/data structures,
@@ -41,12 +40,12 @@
   * GUI/form sketches,
   * maths
 
-* [PlantUML](http://plantuml.com/) automatically draws and lays-out elements.
+* [PlantUML](http://plantuml.com/) draws and lays-out elements
+
+* Export in image formats
 
 +++
-
 ## Why?
-
 * Visualise & share ideas
 * Don't worry about lining-up elements
 * Easy to read & update
@@ -54,9 +53,7 @@
 * Rough & ready - for internal use
 
 +++
-
 ## How?
-
 * [Language Reference Guide](http://plantuml.com/PlantUML_Language_Reference_Guide.pdf)
   * PDF user manual - includes many examples
 * [PlantText.com](https://www.planttext.com/)
@@ -67,8 +64,8 @@
   * View (local) diagrams in the browser
     * "Allow access to file URLs" in [extension settings](chrome://extensions/?id=legbfeljfbjgfifnkmpoajgpgejojooj)
 
+---
 ## Alternatives
-
 * [Draw.IO](https://www.draw.io/)
   * Confluence integration
   * Example: [Realtime bus - subscription creation](https://publictransportvic.atlassian.net/wiki/spaces/BP/pages/586022999/Creating+Subscriptions)
