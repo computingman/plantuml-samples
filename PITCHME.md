@@ -51,6 +51,8 @@
 ## What more?
 * [PlantUML](http://plantuml.com/) draws and lays-out elements
 
+![Activity](images/Problems.svg)
+
 * Exports in many image formats
   * SVG
   * PNG

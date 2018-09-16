@@ -1,0 +1,14 @@
+@startuml Problems?
+
+start
+if (Have a problem?) then (yes)
+    if (Can anything be done?) then (yes)
+        :Great!;
+    else (no)
+    endif
+else (not sure)
+endif
+
+:Don't worry;
+
+@enduml
