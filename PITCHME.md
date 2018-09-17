@@ -85,3 +85,5 @@
   * Confluence integration
   * Example: [Realtime bus - subscription creation](https://publictransportvic.atlassian.net/wiki/spaces/BP/pages/586022999/Creating+Subscriptions)
 * [UMLet](https://www.umlet.com/)
+* [ZenUML](https://app.zenuml.com/)
+  * Fast & sleek sequence diagrams in the browser.
